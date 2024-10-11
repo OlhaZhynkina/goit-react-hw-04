@@ -1,0 +1,13 @@
+.wrap {
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  padding: 10px 15px;
+  background-color: #0015df;
+  border-radius: 25px;
+  border: none;
+  color: #fff;
+  margin-bottom: 30px;
+}

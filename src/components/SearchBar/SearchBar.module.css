@@ -1,0 +1,35 @@
+.header {
+  display: flex;
+  justify-content: center;
+  background-color: #17d478;
+  padding: 30px 60px;
+  border-radius: 25px;
+  margin-bottom: 30px;
+}
+
+.form {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.icon {
+  color: #fff;
+}
+
+.input {
+  padding: 10px 15px;
+  background-color: transparent;
+  border: 2px solid #fff;
+  border-radius: 25px;
+  outline: none;
+  width: 250px;
+}
+
+.btn {
+  padding: 10px 15px;
+  background-color: #0015df;
+  border-radius: 25px;
+  border: none;
+  color: #fff;
+}
